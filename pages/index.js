@@ -9,8 +9,7 @@ export default function Home() {
         width={200}
         height={200}
       />
-      <h1>🚀 We are coming soon!</h1>
-      <p>Please mail on rut@apnastocks.in</p>
+      
     </div>
   );
 }
